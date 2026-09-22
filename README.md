@@ -1,22 +1,4 @@
-# Your Prompt: From Logical Analysis to Discovering New Solutions
-
-Denis, I've taken a closer look at what we've built, and I have an idea for significantly expanding its applications.
-
-**Your prompt can be used not only to evaluate reasoning, but also to discover solutions to problems where the original formulation itself prevents us from finding an answer.**
-
-These are two different applications of the same mechanism.
-
-The first: a person reaches a conclusion, and the model checks whether that conclusion actually follows from the initial data.
-
-The second: a person asks a question, and the model checks whether the way the question is formulated unnecessarily restricts the space of possible answers.
-
-The second application could be particularly useful for discovering unconventional solutions.
-
-But first, let's examine what we've already developed.
-
----
-
-## 1. What Your Prompt Actually Does
+## 1. What THIS Prompt Actually Does
 
 Consider an ordinary request:
 
