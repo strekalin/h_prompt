@@ -1,3 +1,5 @@
+> [How this prompt was born: the Russian conversation with two explicitly marked personal redactions](./BIRTH_RU.md)
+
 ## 1. What THIS Prompt Actually Does
 
 Consider an ordinary request:
